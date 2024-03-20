@@ -3,6 +3,7 @@
       width: 900px;
       height: 600px;
       position: relative;
+      top : -5px;  
       left: 50px;
     }
     .blue-box {
